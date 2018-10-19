@@ -1,6 +1,6 @@
 language: csharp
 mono:
-  - 5.12.0
+  - 5.20.0
 solution: B9PartSwitch.sln
 before_install:
   - sudo apt-get install python3-pip
